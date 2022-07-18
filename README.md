@@ -20,5 +20,5 @@ To test the frontend go to this reposistory:
 
   https://github.com/yaradal/robot-FrontEnd.git
 
-I did very basic testing, not comprenehnsive
+I did very basic testing, not comprehensive
 
