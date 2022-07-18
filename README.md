@@ -14,5 +14,5 @@ We used a POST method:
 curl -X POST -H "Content-Type: text/plain" --data "this is raw data" http://localhost:8080/robot/move
 ```
 
-I did very basic testing, not comprenehnsive
+I did very basic testing, not comprehensive
 
