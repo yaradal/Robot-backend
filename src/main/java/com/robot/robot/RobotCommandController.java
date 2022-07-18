@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
 
 @RestController
+@CrossOrigin(origins = "http://localhost:3000/", maxAge = 3600)
 @RequestMapping("/robot")
 public class RobotCommandController {
 
